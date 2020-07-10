@@ -20,7 +20,5 @@ public class MainActivity extends AppCompatActivity {
         String a2 = "777";
         String a3 = "陈浩的修改";
 
-        String jqz="8888888888";
-        String a="靳前志";
     }
 }

@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
 		String x = "444";
         String n = "3333";
         String jqz="8888888888";
-
+        String a="靳前志";
     }
 }
